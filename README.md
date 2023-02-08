@@ -19,7 +19,7 @@ This responsive page is perfect if you've learned the fundamentals of HTML & CSS
 ## Resources
 
 - Challange URL: [Click here](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q)
-- Live Site URL: [Click here](#)
+- Live Site URL: [Click here](https://lukenso.github.io/Skilled-Elearning-landing-page/)
 ## Author
 
 - LinkedIn - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
