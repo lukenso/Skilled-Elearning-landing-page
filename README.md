@@ -9,6 +9,7 @@ This responsive page is perfect if you've learned the fundamentals of HTML & CSS
 - Semantic HTML5 Markup
 - CSS custom properties
 - Flexbox
+- Responsive Design
 - CSS Grid
 
 ## Designed for ony three devices 
