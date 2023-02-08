@@ -10,6 +10,12 @@ This responsive page is perfect if you've learned the fundamentals of HTML & CSS
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+### Designed for ony three devices 
+- Mobile (375px)
+- Tablet (768px)
+- Desktop(1440px)
+- 
 ## Resources
 
 - Challange URL: [Click here](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q)
