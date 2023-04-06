@@ -12,7 +12,7 @@ This responsive page is perfect if you've learned the fundamentals of HTML & CSS
 - Responsive Design
 - CSS Grid
 
-## Designed for ony three devices 
+## Designed for only three devices 
 - Mobile (375px)
 - Tablet (768px)
 - Desktop(1440px)
